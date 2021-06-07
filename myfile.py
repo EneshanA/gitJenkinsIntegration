@@ -1,4 +1,3 @@
 print("Hello World")
 print("How are you")
-print("Push event trigger try 7")
-
+print("Both Slack and Jira Test")
